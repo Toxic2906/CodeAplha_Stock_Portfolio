@@ -1,0 +1,22 @@
+prices = {
+    "AAPL": 180,    
+    "TSLA": 250,   
+    "MSFT": 420,    
+    "GOOGL": 175,   
+    "AMZN": 195,    
+    "META": 520,    
+    "NFLX": 700,    
+    "NVDA": 1450,   
+    "AMD": 180,     
+    "INTC": 35,     
+    "IBM": 220,     
+    "ORCL": 165,    
+    "CRM": 280,     
+    "ADBE": 560,    
+    "UBER": 85,     
+    "PYPL": 75,     
+    "SHOP": 90,     
+    "SPOT": 340,    
+    "DIS": 105,     
+    "BABA": 110     
+}
